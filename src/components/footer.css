@@ -13,8 +13,9 @@
    width: 150px;
    margin-bottom: 2rem;
 }
-.social-link a{
+.social .social-link a{
     margin-right: 1rem;
+   text-decoration: none;
 }
 .social-link .icon{
     color: white;
